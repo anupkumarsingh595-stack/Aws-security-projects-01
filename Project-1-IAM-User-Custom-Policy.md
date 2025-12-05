@@ -25,7 +25,6 @@ A real-world scenario used by Cloud Engineers, DevOps, and Security Teams.
 
 ---
 
-## 🧱 Architecture Summary
 
 ### 👤 **Users**
 - `dev1`, `dev2`  
@@ -118,7 +117,7 @@ company-secure-login
 ```
 Login URL becomes:  
 ```
-https://company-secure-login.signin.aws.amazon.com/console
+https://aws.amazon.com/console/
 ```
 
 ---
