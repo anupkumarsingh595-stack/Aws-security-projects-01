@@ -1,13 +1,3 @@
-<!-- PROJECT TITLE -->
-<h1 align="center">🔐 AWS IAM Project – Secure Multi-User Access Management</h1>
-<img width="300" height="500" alt="img3-1" src="https://github.com/user-attachments/assets/05a4fab8-1fd2-4ca1-9e92-172d7466898f" /> 
-<img width="300" height="400" alt="img3-1" src="https://github.com/user-attachments/assets/b3b03456-520d-45cf-8a64-91f21fb29605"/>
-     <img width="302" height="300" alt="img2" src="https://github.com/user-attachments/assets/352b888f-eb40-43dd-ad71-5e31120b6935"/>
-
-
-
-
-
 <p align="center">
   <strong>Identity & Access Management | Cloud Security | AWS Best Practices</strong><br>
   <img src="https://img.shields.io/badge/AWS-IAM-orange?logo=amazon" />
